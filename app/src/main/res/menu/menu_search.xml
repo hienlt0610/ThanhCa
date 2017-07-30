@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_action_search_song"
+        android:title="Bài hát"/>
+    <item
+        android:id="@+id/menu_action_search_singer"
+        android:title="Ca sỹ"/>
+    <item
+        android:id="@+id/menu_action_search_artist"
+        android:title="Nhạc sỹ"/>
+    <item
+        android:id="@+id/menu_action_search_album"
+        android:title="Album"/>
+</menu>
